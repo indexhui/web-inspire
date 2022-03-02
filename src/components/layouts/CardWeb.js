@@ -4,6 +4,7 @@ const CardWeb = props => {
     <Flex maxW="500px" rounded="sm">
       <Flex>
         <Image src={props.image} />
+        test
       </Flex>
     </Flex>
   );
